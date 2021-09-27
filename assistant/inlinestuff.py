@@ -25,7 +25,7 @@ from plugins._inline import SUP_BUTTONS
 from . import *
 from . import humanbytes as hb
 
-ofox = "https://telegra.ph/file/231f0049fcd722824f13b.jpg"
+ofox = "https://telegra.ph/file/89570aa0193a6fda02b3d.jpg"
 gugirl = "https://telegra.ph/file/0df54ae4541abca96aa11.jpg"
 yeah = "https://telegra.ph/file/e3c67885e16a194937516.jpg"
 ps = "https://telegra.ph/file/de0b8d9c858c62fae3b6e.jpg"
